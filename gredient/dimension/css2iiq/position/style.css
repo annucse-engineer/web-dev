@@ -2,17 +2,30 @@
     position: static;
 } */
 
-div{  width: 200px;
-    height: 200px;
+/* div{ 
+     width: 100px;
+    height: 150px;
     background-color: red;
     border:1px solid black;
-
-}
+         display: inline-block;
+} */
 
 /* relative property */
-.box{
+#box3{
     position: relative;
     left:15px;
     top:100px;
+    border: 1px solid palevioletred;
+    left: 50px;
   
+}
+#pp{
+    position: fixed;
+
+}
+#wrapper{
+     height: 2000px;
+     width: 100vw;
+     display: inline-block;
+     background-color: brown;
 }
