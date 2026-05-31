@@ -1,9 +1,14 @@
+
+
+
 .box{
     color: aqua;
-    background-color: solid black;
     width: 200px;
     height: 150px;
     margin: 20px;
     padding: 15px;
+    border-color: rgb(255, 94, 0);
+    
+     box-shadow: 0 0 0 3px rgb(228, 14, 14);
     
 }
